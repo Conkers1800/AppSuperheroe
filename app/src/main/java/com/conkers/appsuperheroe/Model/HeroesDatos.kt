@@ -1,5 +1,7 @@
 package com.conkers.appsuperheroe.Model
 
+import com.conkers.appsuperheroe.R
+
 object HeroesRepository {
     val heroes = listOf(
         Hero(
